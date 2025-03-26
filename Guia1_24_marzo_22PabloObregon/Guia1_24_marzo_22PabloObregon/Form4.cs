@@ -16,5 +16,17 @@ namespace Guia1_24_marzo_22PabloObregon
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int[] n1 = { 1, 2, 3, 4, 5 };
+            int[] n2 = { 6, 7, 8, 9, 10 };
+
+            for (int cont = 0; cont < 5; cont++)
+            {
+                int suma = n1[cont] + n2[cont];
+                dataGridView1.Rows.Add(n1[cont], n2[cont], suma);
+            }
+        }
     }
 }

@@ -33,5 +33,17 @@ namespace Guia1_24_marzo_22PabloObregon
             Form3 v2 = new Form3();
             v2.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form4 v3 = new Form4();
+            v3.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form5 v4 = new Form5();
+            v4.Show();
+        }
     }
 }

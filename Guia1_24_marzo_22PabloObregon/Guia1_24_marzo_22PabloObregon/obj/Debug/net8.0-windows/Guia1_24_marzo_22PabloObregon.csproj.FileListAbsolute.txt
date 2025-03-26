@@ -16,3 +16,23 @@ C:\Users\USUARIO PC23\source\repos\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_
 C:\Users\USUARIO PC23\source\repos\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\ref\Guia1_24_marzo_22PabloObregon.dll
 C:\Users\USUARIO PC23\source\repos\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.Form2.resources
 C:\Users\USUARIO PC23\source\repos\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.Form3.resources
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.exe
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.deps.json
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.runtimeconfig.json
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.dll
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.pdb
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.Form1.resources
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.Form2.resources
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.Form3.resources
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.Form4.resources
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.Form5.resources
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.dll
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\refint\Guia1_24_marzo_22PabloObregon.dll
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.pdb
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_22PabloObregon.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Escritorio\Tarea-1-main\Guia1_24_marzo_22PabloObregon\Guia1_24_marzo_22PabloObregon\obj\Debug\net8.0-windows\ref\Guia1_24_marzo_22PabloObregon.dll

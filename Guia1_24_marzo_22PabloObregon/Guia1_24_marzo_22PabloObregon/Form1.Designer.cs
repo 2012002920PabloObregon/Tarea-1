@@ -37,6 +37,8 @@
             Total = new DataGridViewTextBoxColumn();
             button2 = new Button();
             button3 = new Button();
+            button4 = new Button();
+            button5 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -92,7 +94,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(445, 129);
+            button2.Location = new Point(443, 114);
             button2.Name = "button2";
             button2.Size = new Size(75, 23);
             button2.TabIndex = 4;
@@ -102,7 +104,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(449, 204);
+            button3.Location = new Point(443, 153);
             button3.Name = "button3";
             button3.Size = new Size(75, 23);
             button3.TabIndex = 5;
@@ -110,11 +112,33 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // button4
+            // 
+            button4.Location = new Point(443, 197);
+            button4.Name = "button4";
+            button4.Size = new Size(75, 23);
+            button4.TabIndex = 6;
+            button4.Text = "Ejercicio 3";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // button5
+            // 
+            button5.Location = new Point(443, 239);
+            button5.Name = "button5";
+            button5.Size = new Size(75, 23);
+            button5.TabIndex = 7;
+            button5.Text = "Ejercicio 4";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(544, 323);
+            Controls.Add(button5);
+            Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(dataGridView1);
@@ -139,5 +163,7 @@
         private DataGridViewTextBoxColumn Total;
         private Button button2;
         private Button button3;
+        private Button button4;
+        private Button button5;
     }
 }

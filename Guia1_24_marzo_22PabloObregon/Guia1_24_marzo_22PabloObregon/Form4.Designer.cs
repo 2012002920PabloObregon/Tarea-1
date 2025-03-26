@@ -28,12 +28,67 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form4";
+            dataGridView1 = new DataGridView();
+            n1 = new DataGridViewTextBoxColumn();
+            n2 = new DataGridViewTextBoxColumn();
+            suma = new DataGridViewTextBoxColumn();
+            button1 = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            SuspendLayout();
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { n1, n2, suma });
+            dataGridView1.Location = new Point(55, 145);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(344, 121);
+            dataGridView1.TabIndex = 0;
+            // 
+            // n1
+            // 
+            n1.HeaderText = "N1";
+            n1.Name = "n1";
+            // 
+            // n2
+            // 
+            n2.HeaderText = "N2";
+            n2.Name = "n2";
+            // 
+            // suma
+            // 
+            suma.HeaderText = "SUMA";
+            suma.Name = "suma";
+            // 
+            // button1
+            // 
+            button1.Location = new Point(222, 73);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 1;
+            button1.Text = "CALCULAR";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // Form4
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(464, 320);
+            Controls.Add(button1);
+            Controls.Add(dataGridView1);
+            Name = "Form4";
+            Text = "Form4";
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private DataGridView dataGridView1;
+        private DataGridViewTextBoxColumn n1;
+        private DataGridViewTextBoxColumn n2;
+        private DataGridViewTextBoxColumn suma;
+        private Button button1;
     }
 }
